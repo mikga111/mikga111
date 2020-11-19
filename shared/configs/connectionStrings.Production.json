@@ -1,0 +1,13 @@
+{
+  "ConnectionStrings": {
+    "MainDb": ""
+  },
+
+  "RabbitMQ": {
+    "Host": "",
+    "Port": "",
+    "VirtualHost": "",
+    "Login": "",
+    "Password": ""
+  }
+}
